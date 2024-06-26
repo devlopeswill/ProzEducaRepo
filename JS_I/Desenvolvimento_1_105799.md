@@ -5,7 +5,7 @@ Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algu
 
 Seção de Login com Validação Simples em JavaScript
 HTML:
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -25,4 +25,4 @@ HTML:
 
     <script src="script.js"></script>
 </body>
-</html>-->
+</html>
